@@ -26,6 +26,7 @@
     border: 2px solid white;
     border-radius: 40px;
     color: white;
+    transition: .3s ease-in-out;
 }
 
 
@@ -45,12 +46,17 @@
 }
 
 .main-icon_img {
-   width: 340px;
-   height: 360px;
+   width: 210px;
+   height: 370px;
 }
 
 .rank-title {
-    margin-bottom: 30px;
+    margin-bottom: 70px;
     color: white;
     font-size: 50px;
+    margin-top: 20px;
+}
+
+#login-form input[type="submit"]:hover {
+    border: 2px solid blueviolet;
 }

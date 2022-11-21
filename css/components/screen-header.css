@@ -8,8 +8,14 @@
 .screen-header__title {
     font-size: 32px;
     font-weight: 600;
+    transition: 0.3s ease-in-out;
 }
 
 .screen-header__icons span {
     margin-left: 25px;
+}
+
+.screen-header__title:hover {
+    color: blueviolet;
+    cursor: pointer;
 }

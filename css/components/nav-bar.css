@@ -23,3 +23,8 @@
     left: 15px;
     bottom: 15px;
 }
+
+.nav__list img {
+    width: 40px;
+    height: 40px;
+}

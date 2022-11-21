@@ -1,0 +1,10 @@
+.money-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.money-number img {
+    width: 400px;
+    height: 700px;
+}

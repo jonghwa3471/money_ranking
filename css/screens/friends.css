@@ -31,3 +31,21 @@
     justify-content: space-between;
     color: rgba(0, 0, 0, 0.5);
 }
+
+.bg-rank {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-rank img {
+    width: 400px;
+    height: 600px;
+    margin-top: -70px;
+}
+
+.screen-header__icons img {
+    width: 40px;
+    height: 35px;
+}
