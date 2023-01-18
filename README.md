@@ -1,3 +1,3 @@
-# last-practice
+# Money Ranking
 
-HTML & CSS are so much fun!
+프로젝트 관리론 발표자료 앱 구현
